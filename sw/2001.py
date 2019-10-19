@@ -1,3 +1,8 @@
+# Samsung SW Academy
+# Problem no.2001 (파리퇴치)
+# https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq&categoryId=AV5PzOCKAigDFAUq&categoryType=CODE
+
+
 for t in range(int(input())):
     n, m = list(map(int,input().split()))
     pari = [[0]*n for j in range(n)]
