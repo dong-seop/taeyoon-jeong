@@ -1,3 +1,4 @@
 # tae-yoon-jeong
 
-sdsdsdsdsd
+codeup : https://codeup.kr/
+sw : https://swexpertacademy.com
