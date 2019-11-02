@@ -1,5 +1,5 @@
 # Samsung SW Academy
-# Problem no.2001 (파리퇴치)
+# Problem no.1986 (지그재그 숫자)
 # https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq&categoryId=AV5PzOCKAigDFAUq&categoryType=CODE
 
 t = int(input())
