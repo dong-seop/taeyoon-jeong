@@ -4,8 +4,10 @@ m = int(input())
 s = list(input())
 n = int(input())
 
+import sys
+
 for i in range (n):
-	a = list(map(int, input().split()))
+	a = map(int, sys.stdin.readline())
 	temp = s[a[0]:a[1]]
 	s.insert(a[2], temp)
 	s = [y for x in s for y in x]
