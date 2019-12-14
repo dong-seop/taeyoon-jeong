@@ -1,4 +1,4 @@
-https://www.acmicpc.net/problem/11655
+# https://www.acmicpc.net/problem/11655
 
 a = input()
 a = list(a)
@@ -12,4 +12,3 @@ for i in range (len(a)):
 for i in range (len(a)):
 	a[i] = chr(a[i])
 	print(a[i], end='')
-  
